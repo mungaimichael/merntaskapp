@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "description": "mern todo app",
   "main": "index.js",
+  "type": "module",
   "license": "MIT"
 }
